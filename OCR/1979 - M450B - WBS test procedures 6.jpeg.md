@@ -63,7 +63,7 @@ of
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M450B/PHOTOS/1979 - M450B - WBS test procedures 6.jpeg",
+ "file": "Modules/AMPLIFIERS/M450B/MANUALS/1979 - M450B - WBS test procedures 6.jpeg",
  "sha256": "44bbd5da18831f565b769b3eb995e792ca007efe4cdfc08da532c0037c93e83e",
  "kind": "module",
  "models": [

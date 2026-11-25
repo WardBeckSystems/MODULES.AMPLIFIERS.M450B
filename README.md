@@ -4,23 +4,14 @@ Ward-Beck Systems M450B, 1979|12. Wiki page: [M450B on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 8 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 8 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 105 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 4 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 9 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 110 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 24 |
-
-## Photos
-
-_Photographs of the module itself: front, back, inside, racked._
-
-<table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNEcyMjh1eW54RmM/view?resourcekey=0-8bbsgZHJML8kMqdRmVRsnw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNEcyMjh1eW54RmM&resourcekey=0-8bbsgZHJML8kMqdRmVRsnw" width="240" alt="1979 - M450B - WBS test procedures 3.jpeg"></a><br><sub>1979|12 · WBS test procedures 3</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVmZad1QxcloxNUk/view?resourcekey=0-RWbHB_i0g90yIP-JpItr4Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVmZad1QxcloxNUk&resourcekey=0-RWbHB_i0g90yIP-JpItr4Q" width="240" alt="1979 - M450B - WBS test procedures 4.jpeg"></a><br><sub>1979|12 · WBS test procedures 4</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY1hGRkNldlluNEE/view?resourcekey=0-anQhU95Of0ETH_Nl2MiLrg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY1hGRkNldlluNEE&resourcekey=0-anQhU95Of0ETH_Nl2MiLrg" width="240" alt="1979 - M450B - WBS test procedures 5.jpeg"></a><br><sub>1979|12 · WBS test procedures 5</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUHJ3R1Z2cFNWWG8/view?resourcekey=0-xq5rHCbZMwsbb7Yc3PtNpg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUHJ3R1Z2cFNWWG8&resourcekey=0-xq5rHCbZMwsbb7Yc3PtNpg" width="240" alt="1979 - M450B - WBS test procedures 6.jpeg"></a><br><sub>1979|12 · WBS test procedures 6</sub></td></tr>
-</table>
 
 ## Schematics
 
@@ -64,7 +55,8 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbFNMSi1oSUJ4R0k/view?resourcekey=0-R-kKznP7k1TH6Nw-3pl9rg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbFNMSi1oSUJ4R0k&resourcekey=0-R-kKznP7k1TH6Nw-3pl9rg" width="240" alt="1979 - M450B - P04 - Warranty.jpg"></a><br><sub>1979|12 · P04 - Warranty</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKR0xlVERyTUo0NDQ/view?resourcekey=0-83RHMqPj2mY_EROSvmCu4A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKR0xlVERyTUo0NDQ&resourcekey=0-83RHMqPj2mY_EROSvmCu4A" width="240" alt="1979 - M450B - P05 - 1-1.jpg"></a><br><sub>1979|12 · P05 - 1-1</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQ0dwWnlrYVp1Z2M/view?resourcekey=0-1rQCmBxqdjM4zGgjO76OEQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQ0dwWnlrYVp1Z2M&resourcekey=0-1rQCmBxqdjM4zGgjO76OEQ" width="240" alt="1979 - M450B - P06 - 2-1.jpg"></a><br><sub>1979|12 · P06 - 2-1</sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQUx2d2NXc2RiUUk/view?resourcekey=0-IS_kKaLE2ZFc8PDPIUSCBg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQUx2d2NXc2RiUUk&resourcekey=0-IS_kKaLE2ZFc8PDPIUSCBg" width="240" alt="1979 - M450B - P07 - 2-2.jpg"></a><br><sub>1979|12 · P07 - 2-2</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcHh6d3hiVFlOWms/view?resourcekey=0-Tcrh2_5etYq5XKXQmw1FTQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcHh6d3hiVFlOWms&resourcekey=0-Tcrh2_5etYq5XKXQmw1FTQ" width="240" alt="1979 - M450B - P08 - 3-1.jpg"></a><br><sub>1979|12 · P08 - 3-1</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSE5VQ1ZBYjR4d00/view?resourcekey=0-S5sMUflJHvZVyPbAQw0IyA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSE5VQ1ZBYjR4d00&resourcekey=0-S5sMUflJHvZVyPbAQw0IyA" width="240" alt="1979 - M450B - P09 - 4-1.jpg"></a><br><sub>1979|12 · P09 - 4-1</sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNURqU1hITEdFSk0/view?resourcekey=0-YEOyCbuGgeLppZ73eHLR8Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNURqU1hITEdFSk0&resourcekey=0-YEOyCbuGgeLppZ73eHLR8Q" width="240" alt="1979 - M450B - P10 - 4-2.jpg"></a><br><sub>1979|12 · P10 - 4-2</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeTljYVZuWVUtdzA/view?resourcekey=0-fAsETFw_iZ1GrxzYWpR0Gw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeTljYVZuWVUtdzA&resourcekey=0-fAsETFw_iZ1GrxzYWpR0Gw" width="240" alt="1979 - M450B - P11 - 4-3.jpg"></a><br><sub>1979|12 · P11 - 4-3</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTXA5aGRTSnVMMEk/view?resourcekey=0-btXjLh5E1F4VktJoWs8d9Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTXA5aGRTSnVMMEk&resourcekey=0-btXjLh5E1F4VktJoWs8d9Q" width="240" alt="1979 - M450B - P12 - 4-4.jpg"></a><br><sub>1979|12 · P12 - 4-4</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZWp5T3ZHOC02ZjA/view?resourcekey=0-VG9iSPQ8nsbnxrZ-bSJFAw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZWp5T3ZHOC02ZjA&resourcekey=0-VG9iSPQ8nsbnxrZ-bSJFAw" width="240" alt="1979 - M450B - Program - Summing Amplifier.pdf"></a><br><sub>1979|12 · Program - Summing Amplifier</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZWp5T3ZHOC02ZjA/view?resourcekey=0-VG9iSPQ8nsbnxrZ-bSJFAw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZWp5T3ZHOC02ZjA&resourcekey=0-VG9iSPQ8nsbnxrZ-bSJFAw" width="240" alt="1979 - M450B - Program - Summing Amplifier.pdf"></a><br><sub>1979|12 · Program - Summing Amplifier</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNEcyMjh1eW54RmM/view?resourcekey=0-8bbsgZHJML8kMqdRmVRsnw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNEcyMjh1eW54RmM&resourcekey=0-8bbsgZHJML8kMqdRmVRsnw" width="240" alt="1979 - M450B - WBS test procedures 3.jpeg"></a><br><sub>1979|12 · WBS test procedures 3</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVmZad1QxcloxNUk/view?resourcekey=0-RWbHB_i0g90yIP-JpItr4Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVmZad1QxcloxNUk&resourcekey=0-RWbHB_i0g90yIP-JpItr4Q" width="240" alt="1979 - M450B - WBS test procedures 4.jpeg"></a><br><sub>1979|12 · WBS test procedures 4</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY1hGRkNldlluNEE/view?resourcekey=0-anQhU95Of0ETH_Nl2MiLrg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY1hGRkNldlluNEE&resourcekey=0-anQhU95Of0ETH_Nl2MiLrg" width="240" alt="1979 - M450B - WBS test procedures 5.jpeg"></a><br><sub>1979|12 · WBS test procedures 5</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUHJ3R1Z2cFNWWG8/view?resourcekey=0-xq5rHCbZMwsbb7Yc3PtNpg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUHJ3R1Z2cFNWWG8&resourcekey=0-xq5rHCbZMwsbb7Yc3PtNpg" width="240" alt="1979 - M450B - WBS test procedures 6.jpeg"></a><br><sub>1979|12 · WBS test procedures 6</sub></td></tr>
 </table>
 
 Shared privately on Google Drive (opens after sign-in): [1979|12 · Program - Summing Amplifier (2)](https://drive.google.com/file/d/0B0yR0b5T78SKcXhfbkdHZ005Um8/view?resourcekey=0-nC8LZYrqEhrfTSAe3iAMrw)
@@ -79,6 +71,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1979 - M450B - Program - Summing Amplifier p10.kicad_sch](KICAD/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20p10.kicad_sch)
 - [1979 - M450B - Program - Summing Amplifier p13.kicad_sch](KICAD/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20p13.kicad_sch)
 - [M450B.kicad_sym](KICAD/M450B.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)

@@ -26,7 +26,7 @@ PGM/suM Amplifier
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M450B/PHOTOS/1979 - M450B - WBS test procedures 3.jpeg",
+ "file": "Modules/AMPLIFIERS/M450B/MANUALS/1979 - M450B - WBS test procedures 3.jpeg",
  "sha256": "9b3f84aeaf6126bd526fd9e345debb247c0ea796581c795ed6bcd327ec5d57a6",
  "kind": "module",
  "models": [
