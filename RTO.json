@@ -1,0 +1,125 @@
+{
+ "code": "M450B",
+ "connector": "RTO-144",
+ "type": "M450B - Program / Summing Amplifier",
+ "series": null,
+ "contacts": "ELCO 00-6007-015-940-002 · 15 contacts, single row",
+ "verified": "450-04-001 iss. 2, M450, M450A, M450B connector rear view (M450B manual p. 15)",
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "9",
+   "signal": "NORMALLY OPERATING AT UNITY GAIN WHEREAS IN",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M450B/MANUALS/1979 - M450B - Program - Summing Amplifier.pdf",
+   "page": 6
+  },
+  {
+   "pin": "10",
+   "signal": "NORMALLY OPERATING AT UNITY GAIN WHEREAS IN",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M450B/MANUALS/1979 - M450B - Program - Summing Amplifier.pdf",
+   "page": 6
+  },
+  {
+   "pin": "11",
+   "signal": "NORMALLY OPERATING AT UNITY GAIN WHEREAS IN",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M450B/MANUALS/1979 - M450B - Program - Summing Amplifier.pdf",
+   "page": 6
+  },
+  {
+   "pin": "18",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M450B/M450B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M450B/M450B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M450B/M450B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M450B/M450B.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "Y",
+   "signal": "+24 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M450B/M450B.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [
+  {
+   "rail": "VCC-AUDIO",
+   "style": null,
+   "volts": 25,
+   "max_a": null,
+   "supply": "1",
+   "ground": "8",
+   "link": null
+  },
+  {
+   "rail": "VEE-AUDIO",
+   "style": null,
+   "volts": -25,
+   "max_a": null,
+   "supply": "15",
+   "ground": "8",
+   "link": null
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M450B/M450B.rto144.json",
+  "Modules/AMPLIFIERS/M450B/MANUALS/1979 - M450B - Program - Summing Amplifier.pdf"
+ ]
+}
