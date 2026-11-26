@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M450B/MANUALS/1979 - M450B - Program - Summing Amplifier (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/1ea27784dfea48b0-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1396, 2000],
+  "mm": [301.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.1, 11.0, 291.0, 415.7],
+ "outlines": {
+  "line": {"rings": 49, "straight": {"n": 1340, "mm": 3397.6}, "curved": {"n": 227, "mm": 349.5}},
+  "text": {"rings": 156, "straight": {"n": 1535, "mm": 2133.7}, "curved": {"n": 290, "mm": 444.5}},
+  "tb": {"rings": 16, "straight": {"n": 129, "mm": 139.7}, "curved": {"n": 32, "mm": 50.7}}
+ },
+ "circles": [{"c": [101.0, 236.7], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 19,
+  "lines": [
+   {"mm": [109.9, 409.8, 260.6, 417.0], "text": "ARD-BECK SYSTEMS LTD"},
+   {"mm": [22.7, 399.4, 88.3, 415.5], "text": "(VVEl5i]"},
+   {"mm": [211.6, 402.7, 261.0, 406.9], "text": "c:::NT......-.o M1'\" OlXA"},
+   {"mm": [119.0, 397.0, 150.7, 401.4], "text": "oe~-Ol=sJg"},
+   {"mm": [186.8, 397.3, 220.0, 401.1], "text": "T£LEPHC:lNe:"},
+   {"mm": [222.4, 397.0, 244.0, 401.4], "text": ".41el\":Jo"},
+   {"mm": [120.7, 244.8, 176.0, 254.9], "text": "M450B"},
+   {"mm": [89.2, 232.5, 207.5, 238.5], "text": "PROG RAM /SUMMING AMPLIFIER"},
+   {"mm": [257.1, 51.8, 275.9, 60.0], "text": "ps"},
+   {"mm": [246.8, 41.5, 266.4, 51.8], "text": "BS"},
+   {"mm": [226.7, 21.4, 243.3, 27.9], "text": "tp"},
+   {"mm": [220.2, 14.9, 239.0, 21.4], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [103.8, 401.1, 240.3, 425.5],
+  "from": "title-block words (training set)",
+  "text": ["ARD-BECK SYSTEMS LTD", "c:::NT......-.o M1'\" OlXA"]
+ },
+ "dots": [{"c": [101.1, 236.7], "r": 1.6, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 301 × 432 mm, 1396 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–291 mm across, 11–416 mm up",
+  "- **Outlines:** line 49 rings, 1,340 straight (3,398 mm) / 227 curved (350 mm); text 156 rings, 1,535 straight (2,134 mm) / 290 curved (444 mm); tb 16 rings, 129 straight (140 mm) / 32 curved (50.7 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.8 @ (101.0, 236.7)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 19 in 12 lines: ARD-BECK SYSTEMS LTD · (VVEl5i] · c:::NT......-.o M1'\" OlXA · oe~-Ol=sJg · T£LEPHC:lNe: · .41el\":Jo · M450B · PROG RAM /SUMMING AMPLIFIER · ps · BS · tp · ht",
+  "- **Title block:** (104, 401)–(240, 426) mm: ARD-BECK SYSTEMS LTD · c:::NT......-.o M1'\" OlXA"
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M450B/MANUALS/1979 - M450B - Program - Summing Amplifier.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/03f637fcb72c5f54-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1396, 2000],
+  "mm": [301.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.0, 11.0, 291.0, 415.4],
+ "outlines": {
+  "line": {"rings": 4, "straight": {"n": 634, "mm": 2461.6}, "curved": {"n": 66, "mm": 107.0}},
+  "text": {"rings": 185, "straight": {"n": 2145, "mm": 2850.9}, "curved": {"n": 436, "mm": 694.5}},
+  "tb": {"rings": 2, "straight": {"n": 90, "mm": 296.5}, "curved": {"n": 5, "mm": 7.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [98.5, 407.2, 264.0, 416.8], "text": "WAAD-BECK SYSTEMS LTD;"},
+   {"mm": [30.2, 398.3, 260.4, 413.0], "text": "WBS B41 PAOGAESS AVENUE, SCAAOCAOUGH; ONTARIC M1h2x4"},
+   {"mm": [98.0, 396.0, 150.3, 401.2], "text": "TELEX: 065-25399"},
+   {"mm": [185.0, 395.3, 260.4, 400.6], "text": "TELEPHIONe: 416/430-6550"},
+   {"mm": [120.0, 244.4, 177.0, 257.4], "text": "M450b"},
+   {"mm": [88.5, 232.1, 208.8, 240.5], "text": "PROGRAM / SUMMING AMPLIFIER"},
+   {"mm": [78.8, 9.7, 231.2, 16.2], "text": "AND MANUFACTUAE Of PAOFESSIONAL AUDIO EOUPMENT"},
+   {"mm": [58.1, 10.6, 77.5, 14.9], "text": "OESIGN"}
+  ]
+ },
+ "title_block": {
+  "mm": [24.2, 389.7, 241.1, 425.6],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK SYSTEMS LTD;", "WBS B41 PAOGAESS AVENUE, SCAAOCAOUGH; ONTARIC M1h2x4", "TELEX: 065-25399", "TELEPHIONe: 416/430-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 301 × 432 mm, 1396 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–291 mm across, 11–415 mm up",
+  "- **Outlines:** line 4 rings, 634 straight (2,462 mm) / 66 curved (107 mm); text 185 rings, 2,145 straight (2,851 mm) / 436 curved (694 mm); tb 2 rings, 90 straight (296 mm) / 5 curved (7.6 mm)",
+  "- **Words (OCR):** 13 in 8 lines: WAAD-BECK SYSTEMS LTD; · WBS B41 PAOGAESS AVENUE, SCAAOCAOUGH; ONTARIC M1h2x4 · TELEX: 065-25399 · TELEPHIONe: 416/430-6550 · M450b · PROGRAM / SUMMING AMPLIFIER · AND MANUFACTUAE Of PAOFESSIONAL AUDIO EOUPMENT · OESIGN",
+  "- **Title block:** (24, 390)–(241, 426) mm: WAAD-BECK SYSTEMS LTD; · WBS B41 PAOGAESS AVENUE, SCAAOCAOUGH; ONTARIC M1h2x4 · TELEX: 065-25399 · TELEPHIONe: 416/430-6550"
+ ]
+}

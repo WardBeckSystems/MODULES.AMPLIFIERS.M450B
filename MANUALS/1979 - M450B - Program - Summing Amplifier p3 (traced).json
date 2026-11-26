@@ -1,0 +1,70 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M450B/MANUALS/1979 - M450B - Program - Summing Amplifier.pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/03f637fcb72c5f54-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1396, 2000],
+  "mm": [301.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.3, 27.0, 301.4, 431.8],
+ "outlines": {
+  "line": {"rings": 17, "straight": {"n": 606, "mm": 3154.9}, "curved": {"n": 60, "mm": 97.6}},
+  "text": {"rings": 381, "straight": {"n": 2925, "mm": 3453.2}, "curved": {"n": 816, "mm": 1256.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 44,
+  "lines": [
+   {"mm": [9.1, 409.8, 123.5, 417.2], "text": "WAAD-BECK Systems LTD_"},
+   {"mm": [111.6, 366.6, 144.7, 373.6], "text": "TABLE OF"},
+   {"mm": [147.2, 366.0, 180.1, 373.6], "text": "CONTENTS"},
+   {"mm": [84.6, 354.1, 104.7, 360.6], "text": "M450b"},
+   {"mm": [106.9, 353.6, 168.2, 360.6], "text": "PROGRAM/SUMM NG"},
+   {"mm": [170.8, 353.2, 207.0, 360.2], "text": "AMPLIFIER"},
+   {"mm": [19.9, 268.4, 48.4, 275.3], "text": "SECTION"},
+   {"mm": [227.8, 265.6, 245.7, 273.7], "text": "PAGE"},
+   {"mm": [80.1, 240.7, 111.6, 247.9], "text": "Warranty"},
+   {"mm": [80.1, 234.3, 131.7, 241.4], "text": "Technical Data"},
+   {"mm": [200.6, 234.5, 210.3, 239.3], "text": "T-1"},
+   {"mm": [80.1, 227.1, 144.7, 235.2], "text": "circuit Description"},
+   {"mm": [199.7, 227.1, 221.1, 233.6], "text": "2-1 to"},
+   {"mm": [223.5, 227.1, 234.7, 233.6], "text": "2-2"},
+   {"mm": [80.3, 220.6, 136.0, 227.8], "text": "Gain Adjustment"},
+   {"mm": [199.7, 220.6, 210.5, 227.1], "text": "3-1"},
+   {"mm": [80.3, 214.8, 115.7, 221.3], "text": "Parts List"},
+   {"mm": [200.6, 215.0, 210.3, 219.4], "text": "4_1"},
+   {"mm": [214.0, 214.6, 234.5, 219.9], "text": "t0 4-4"},
+   {"mm": [80.3, 193.4, 111.8, 201.6], "text": "Drawinge"},
+   {"mm": [80.3, 181.8, 100.2, 188.3], "text": "M4SOB"},
+   {"mm": [110.3, 181.4, 143.6, 189.0], "text": "Schematic"},
+   {"mm": [199.7, 181.4, 237.9, 187.8], "text": "B450-02-003"},
+   {"mm": [80.3, 173.6, 171.6, 181.8], "text": "MLSOB Component Layout"},
+   {"mm": [199.7, 174.4, 238.6, 181.4], "text": "B450-06-003"},
+   {"mm": [80.1, 167.1, 169.5, 176.1], "text": "MLSOB Connector Layout"},
+   {"mm": [199.7, 168.0, 237.5, 174.4], "text": "A45o-04-001"},
+   {"mm": [199.7, 48.6, 247.2, 55.7], "text": "MANUAL USSUE"},
+   {"mm": [199.1, 35.6, 246.1, 42.1], "text": "OCTOBER 1979"}
+  ]
+ },
+ "title_block": {"mm": [3.1, 401.1, 110.7, 425.8], "from": "title-block words (training set)", "text": ["WAAD-BECK Systems LTD_"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 301 × 432 mm, 1396 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–301 mm across, 27–432 mm up",
+  "- **Outlines:** line 17 rings, 606 straight (3,155 mm) / 60 curved (97.6 mm); text 381 rings, 2,925 straight (3,453 mm) / 816 curved (1,256 mm)",
+  "- **Words (OCR):** 44 in 29 lines: WAAD-BECK Systems LTD_ · TABLE OF · CONTENTS · M450b · PROGRAM/SUMM NG · AMPLIFIER · SECTION · PAGE · Warranty · Technical Data · T-1 · circuit Description",
+  "- **Title block:** (3, 401)–(111, 426) mm: WAAD-BECK Systems LTD_"
+ ]
+}

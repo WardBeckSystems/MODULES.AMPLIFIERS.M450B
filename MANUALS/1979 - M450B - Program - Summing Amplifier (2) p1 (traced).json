@@ -1,0 +1,66 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M450B/MANUALS/1979 - M450B - Program - Summing Amplifier (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/1ea27784dfea48b0-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1396, 2000],
+  "mm": [301.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 301.4, 431.8],
+ "outlines": {
+  "line": {"rings": 472, "straight": {"n": 3748, "mm": 9141.4}, "curved": {"n": 674, "mm": 903.0}},
+  "text": {"rings": 20, "straight": {"n": 461, "mm": 1610.9}, "curved": {"n": 67, "mm": 91.6}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [218.5, 293.0, 235.8, 296.0], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [218.5, 286.5, 236.0, 289.5], "w": 17.5, "h": 3.0, "from": "ring", "words": ["(\\NBS]"]},
+  {"mm": [218.5, 213.5, 236.0, 216.5], "w": 17.5, "h": 3.0, "from": "ring"},
+  {"mm": [218.5, 167.5, 236.2, 170.6], "w": 17.7, "h": 3.0, "from": "ring", "words": ["\\NBS"]},
+  {"mm": [218.7, 127.8, 236.2, 130.8], "w": 17.5, "h": 3.0, "from": "ring", "words": ["\\NBS"]},
+  {"mm": [218.7, 54.8, 236.2, 58.1], "w": 17.5, "h": 3.2, "from": "ring"},
+  {"mm": [218.7, 48.6, 236.2, 51.6], "w": 17.5, "h": 3.0, "from": "ring", "words": ["\\NBS"]},
+  {"mm": [218.7, 15.1, 236.2, 18.1], "w": 17.5, "h": 3.0, "from": "ring", "words": ["ht"]},
+  {"mm": [218.7, 8.9, 236.2, 11.9], "w": 17.5, "h": 3.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [176.4, 399.4, 269.0, 418.8], "text": "\\NBS"},
+   {"mm": [176.4, 359.3, 269.0, 378.7], "text": "\\NBS"},
+   {"mm": [176.8, 319.3, 269.0, 338.7], "text": "\\NBS"},
+   {"mm": [164.5, 278.5, 282.4, 297.9], "text": "(\\NBS]"},
+   {"mm": [176.8, 239.2, 269.0, 258.6], "text": "\\NBS"},
+   {"mm": [177.3, 199.1, 269.4, 218.5], "text": "\\NBS"},
+   {"mm": [177.3, 159.1, 269.4, 178.5], "text": "\\NBS"},
+   {"mm": [177.3, 119.0, 269.4, 138.4], "text": "\\NBS"},
+   {"mm": [204.2, 97.6, 223.9, 105.0], "text": "M450a"},
+   {"mm": [169.0, 89.2, 215.5, 96.1], "text": "PROG RAM/SUMM"},
+   {"mm": [232.7, 89.2, 270.1, 96.4], "text": "AMPLIFIER"},
+   {"mm": [177.3, 38.9, 269.4, 58.3], "text": "\\NBS"},
+   {"mm": [257.1, 51.8, 275.9, 60.0], "text": "ps"},
+   {"mm": [246.8, 41.5, 266.4, 51.8], "text": "BS"},
+   {"mm": [226.7, 21.4, 243.3, 27.9], "text": "tp"},
+   {"mm": [220.2, 14.9, 239.0, 21.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 301 × 432 mm, 1396 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–301 mm across, 0–432 mm up",
+  "- **Outlines:** line 472 rings, 3,748 straight (9,141 mm) / 674 curved (903 mm); text 20 rings, 461 straight (1,611 mm) / 67 curved (91.6 mm)",
+  "- **Closed boxes:** 9; named: (\\NBS]; \\NBS; \\NBS; \\NBS; ht",
+  "- **Words (OCR):** 17 in 16 lines: \\NBS · \\NBS · \\NBS · (\\NBS] · \\NBS · \\NBS · \\NBS · \\NBS · M450a · PROG RAM/SUMM · AMPLIFIER · \\NBS"
+ ]
+}

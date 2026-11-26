@@ -1,0 +1,81 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M450B/MANUALS/1979 - M450B - Program - Summing Amplifier (2).pdf",
+ "page": 12,
+ "version": 1,
+ "trace": "_traces/1ea27784dfea48b0-p12.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1396, 2000],
+  "mm": [301.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "12", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 13.3, 285.4, 431.8],
+ "outlines": {
+  "line": {"rings": 178, "straight": {"n": 1943, "mm": 4734.2}, "curved": {"n": 443, "mm": 672.9}},
+  "text": {"rings": 369, "straight": {"n": 2578, "mm": 2925.6}, "curved": {"n": 721, "mm": 1107.4}}
+ },
+ "circles": [
+  {"c": [67.3, 312.0], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [200.9, 73.5], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 79,
+  "lines": [
+   {"mm": [46.0, 407.0, 120.3, 412.5], "text": "CK YST EMS LTO."},
+   {"mm": [125.4, 364.2, 144.7, 369.3], "text": "PAR TS"},
+   {"mm": [155.9, 364.2, 162.8, 369.3], "text": "ST"},
+   {"mm": [82.5, 350.6, 205.3, 355.7], "text": "M450B PR (}{;RAM !SUMM NG MPI..I 1ER"},
+   {"mm": [17.3, 323.4, 32.6, 328.5], "text": "PART"},
+   {"mm": [45.6, 323.6, 83.6, 328.7], "text": "DESCRI PTIO"},
+   {"mm": [155.0, 323.6, 168.2, 329.2], "text": "MFG"},
+   {"mm": [203.4, 323.6, 264.5, 329.2], "text": "MFG PA RT NUM BER"},
+   {"mm": [45.8, 309.8, 67.8, 315.6], "text": "ne ste tc"},
+   {"mm": [82.9, 310.0, 91.1, 315.1], "text": "4W"},
+   {"mm": [125.9, 309.0, 132.6, 315.0], "text": "00"},
+   {"mm": [155.0, 310.0, 178.1, 315.1], "text": "Ph il ip\""},
+   {"mm": [122.6, 303.1, 132.6, 308.6], "text": "330"},
+   {"mm": [17.3, 295.4, 27.9, 301.3], "text": "'53"},
+   {"mm": [123.3, 295.8, 132.3, 301.8], "text": "'00"},
+   {"mm": [203.6, 290.8, 222.2, 295.9], "text": "CW_28"},
+   {"mm": [49.7, 289.7, 58.1, 295.3], "text": "e~i"},
+   {"mm": [82.9, 290.4, 89.2, 295.4], "text": "75"},
+   {"mm": [155.0, 290.0, 161.9, 295.2], "text": "Oa"},
+   {"mm": [46.0, 283.7, 52.7, 288.7], "text": "Re"},
+   {"mm": [63.3, 283.7, 91.1, 288.7], "text": "to 1!4W"},
+   {"mm": [159.3, 283.3, 174.9, 288.3], "text": "hi ip"},
+   {"mm": [46.9, 256.9, 107.5, 262.0], "text": "Int'!grated Ci n:u\\t"},
+   {"mm": [155.4, 256.9, 179.6, 262.0], "text": "Na tion\"-"},
+   {"mm": [204.0, 257.1, 225.4, 262.4], "text": "LFJS6N"},
+   {"mm": [17.7, 248.7, 25.9, 257.1], "text": "zz"},
+   {"mm": [19.0, 76.2, 30.7, 81.3], "text": "W8S"},
+   {"mm": [35.4, 76.0, 151.6, 81.3], "text": "recomm ends Ih use of epl cem en"},
+   {"mm": [163.4, 76.0, 192.8, 81.3], "text": "art mad"},
+   {"mm": [200.8, 75.8, 208.8, 82.7], "text": "oy"},
+   {"mm": [234.3, 76.2, 256.1, 81.3], "text": "eeifjed"},
+   {"mm": [18.8, 69.3, 131.1, 74.3], "text": "m\"nuh\" ::turers for con ti nued op ti"},
+   {"mm": [149.8, 69.3, 228.4, 74.3], "text": "equipment pCl\"fo ll nce."},
+   {"mm": [257.1, 51.8, 275.9, 60.0], "text": "ps"},
+   {"mm": [246.8, 41.5, 266.4, 51.8], "text": "BS"},
+   {"mm": [226.7, 21.4, 243.3, 27.9], "text": "tp"},
+   {"mm": [220.2, 14.9, 239.0, 21.4], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [89.2, 73.7], "r": 0.8, "lines": 0}, {"c": [121.2, 73.7], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 301 × 432 mm, 1396 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–285 mm across, 13–432 mm up",
+  "- **Outlines:** line 178 rings, 1,943 straight (4,734 mm) / 443 curved (673 mm); text 369 rings, 2,578 straight (2,926 mm) / 721 curved (1,107 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.6 @ (67.3, 312.0), r 1.6 @ (200.9, 73.5)",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 79 in 37 lines: CK YST EMS LTO. · PAR TS · ST · M450B PR (}{;RAM !SUMM NG MPI..I 1ER · PART · DESCRI PTIO · MFG · MFG PA RT NUM BER · ne ste tc · 4W · 00 · Ph il ip\""
+ ]
+}
