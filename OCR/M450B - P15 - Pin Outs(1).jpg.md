@@ -15,6 +15,15 @@ Wiki page: [M450B](../../../../PAGES/M450B.md)
 - **Size:** 93,938 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 432 × 318 mm, 1033 × 760 px traced (0.418 mm/px), turned 270°
+- **Ink extent:** 0–432 mm across, 0–318 mm up
+- **Outlines:** line 203 rings, 1,863 straight (8,670 mm) / 344 curved (875 mm); text 195 rings, 1,187 straight (2,497 mm) / 379 curved (938 mm)
+- **Closed boxes:** 38
+
+Every curve, box, word and wire group: [M450B - P15 - Pin Outs(1) (traced).json](../PINOUTS/M450B%20-%20P15%20-%20Pin%20Outs%281%29%20%28traced%29.json) (the CAD file: `M450B - P15 - Pin Outs(1) (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

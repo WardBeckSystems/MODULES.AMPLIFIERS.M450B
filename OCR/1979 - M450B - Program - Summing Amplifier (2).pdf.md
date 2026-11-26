@@ -26,7 +26,7 @@ Wiki page: [M450B](../../../../PAGES/M450B.md)
 - **Closed boxes:** 9; named: (\NBS]; \NBS; \NBS; \NBS; ht
 - **Words (OCR):** 17 in 16 lines: \NBS · \NBS · \NBS · (\NBS] · \NBS · \NBS · \NBS · \NBS · M450a · PROG RAM/SUMM · AMPLIFIER · \NBS
 
-Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p1 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20(2)%20p1%20(traced).json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p1 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -38,7 +38,7 @@ Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifi
 - **Words (OCR):** 19 in 12 lines: ARD-BECK SYSTEMS LTD · (VVEl5i] · c:::NT......-.o M1'" OlXA · oe~-Ol=sJg · T£LEPHC:lNe: · .41el":Jo · M450B · PROG RAM /SUMMING AMPLIFIER · ps · BS · tp · ht
 - **Title block:** (104, 401)–(240, 426) mm: ARD-BECK SYSTEMS LTD · c:::NT......-.o M1'" OlXA
 
-Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p2 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20(2)%20p2%20(traced).json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p2 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -48,7 +48,7 @@ Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifi
 - **Closed boxes:** 1
 - **Words (OCR):** 59 in 32 lines: WA · ECI< · EM LTC · TA8Le: OF CONTENT · M45 08 PROGRAM SUMM ING AMPL IF IER · SECTI ON · PAGe: · .....an ly · Tect1n h:a · 51"- · in; · scr PI
 
-Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p3 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20(2)%20p3%20(traced).json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p3 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -60,7 +60,7 @@ Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifi
 - **Dots (junctions):** 3
 - **Words (OCR):** 297 in 178 lines: WARo ~eeCK · TEM · LT · 84' · LlVliNUE; · ONT"""'IO M1>-< 01 · l~~E'" 061>- 01"" · 30 · AAf.llY · Al · Wa · d_B~d<
 
-Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p4 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20(2)%20p4%20(traced).json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p4 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -73,7 +73,7 @@ Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifi
 - **Words (OCR):** 216 in 95 lines: WARD-BECK SYSTEMS LTD · TECHNICAL DATA · M4508 ROGRAM SUMM ING' AM · IFI ER · U"ed · Used as · PROGRA AMP IFIE · SUMMING AMPLIF IER · Gll · 24 10 · 40 · Unity.
 - **Title block:** (2, 408)–(109, 431) mm: WARD-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p5 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20(2)%20p5%20(traced).json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p5 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -85,7 +85,7 @@ Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifi
 - **Dots (junctions):** 3
 - **Words (OCR):** 378 in 161 lines: CK SYSTE MS · CIRCUIT OESCRlPTION · M4S0B PROGRAM!SUMM ING AMP · IER · The- M4500 · d;r1l<;1 · rep la o:me · u~1 purpose- · rog 'ltn/ · ng Amoll fler · Whe1> · ed
 
-Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p6 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20(2)%20p6%20(traced).json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p6 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -97,7 +97,7 @@ Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifi
 - **Words (OCR):** 140 in 65 lines: WARD-BECK SYS TEMS · LT · RCUI · DESCRIP TIO · /'0\4508 PRQGR AM/SUMMI NG AMPl · Th bipo'-,,' · 25 voll · app lied 10 pi · Sand 15 · cou led · vt · isol3.1 ion
 - **Title block:** (0, 317)–(185, 423) mm: WARD-BECK SYS TEMS · LT · RCUI · DESCRIP TIO · /'0\4508 PRQGR AM/SUMMI NG AMPl · Th bipo'-,,' · 25 voll · cou led · vt · isol3.1 ion · diode~ CR5 li nd CR6 10 C2
 
-Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p7 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20(2)%20p7%20(traced).json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p7 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -109,7 +109,7 @@ Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifi
 - **Dots (junctions):** 1
 - **Words (OCR):** 69 in 30 lines: SECK YS TE · TC · GAIN ADJ USTKENT · H450B PROGRAM/S UMM IN AMP LI FIER · Use as · PROGRAM AMPLIF ER · 40. · ~~~~~i~~i~~~~~Resistor pi ns po · 30 · ~tween · or · 20
 
-Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p8 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20(2)%20p8%20(traced).json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p8 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -120,7 +120,7 @@ Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifi
 - **Dots (junctions):** 1
 - **Words (OCR):** 148 in 102 lines: WAF=lO · ECK SYS · MS LT · PARTS LIS · M4S0B PROGRAM/SUMMIN AMPLIF IE · PART · DESCR IPT ION · FG · MFG PART NUMBER · ciIOr- · uF/6 · T39OFJ 37MOO6AS
 
-Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p9 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20(2)%20p9%20(traced).json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p9 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -130,7 +130,7 @@ Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifi
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.6 @ (71.8, 63.6)
 - **Words (OCR):** 87 in 66 lines: WARC · ECK YS TEMS LTC · PAR TS · IS · M4S08 PROGRAM/SUMM NG AMP LI FI ER · PMH · OESCRIPTIO · MeG · MeG PART NUM8 ER · Mot or-o · 1N400 · OR'
 
-Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p10 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20(2)%20p10%20(traced).json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p10 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -140,7 +140,7 @@ Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifi
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.6 @ (69.4, 78.3)
 - **Words (OCR):** 76 in 51 lines: WAF=lO-eeCK YSTEMS LTO · PARTS LI ST · M450B PROGRAM/S UMM NG AMP · 1ER · PAR · OEse PT ION · M'G · PART NU MBER · ,.tor · 1/4W · Ph ilip · za
 
-Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p11 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20(2)%20p11%20(traced).json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p11 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -151,7 +151,7 @@ Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifi
 - **Dots (junctions):** 2
 - **Words (OCR):** 79 in 37 lines: CK YST EMS LTO. · PAR TS · ST · M450B PR (}{;RAM !SUMM NG MPI..I 1ER · PART · DESCRI PTIO · MFG · MFG PA RT NUM BER · ne ste tc · 4W · 00 · Ph il ip"
 
-Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p12 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20(2)%20p12%20(traced).json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p12 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -164,7 +164,7 @@ Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifi
 - **Words (OCR):** 150 in 122 lines: 24\1 · R1 · RB · 22 · 22 · Ol' · Ol2 · Q3 · 2~4:-? .o\OI · N3C.45 · OlIO · 33~/G.
 - **Title block:** (354, 0)–(432, 37) mm: 1<;1,., · .3.-40 · APP · 11SSl.E DAn: · tp · (VVE3S] WARD-BECK SYSTEMS · ht 18 · OftN. · ENG.MIt · soa · CK · PRO RAM SUMMING AMPLIFIER · al · CHEMATIC · SCAU · 003 · ISSUE
 
-Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p13 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20(2)%20p13%20(traced).json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p13 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -176,7 +176,7 @@ Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifi
 - **Words (OCR):** 172 in 141 lines: -R44 · IO · -R6' roo · -R4.0 'L'L · -R~Go.£ · _c.+~7p · "'5~2 · QI\ · R45 · ZK · 11 P2 · It,.,.
 - **Title block:** (314, 0)–(432, 54) mm: G179 · 31040 · ps · PlY{ · ISS<.£ DATE · REVesK* · APP. · BS SYSTEMS · VVE3S] WARe · BECK · DRN. GEe · M",S OB · ENC. Ml · 78 · tp · CKO.<? · PROGRAM/SUMMING AMPLIFIER · ht · COM PONENT · LAYOUT · APP
 
-Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p14 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20(2)%20p14%20(traced).json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p14 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -188,7 +188,7 @@ Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifi
 - **Dots (junctions):** 2
 - **Words (OCR):** 43 in 32 lines: II · II · II · ec · II · oz · II · +25 · Nle · INPUT WH EN · USED AS · NPUT WH EN
 
-Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p15 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20(2)%20p15%20(traced).json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - Program - Summing Amplifier (2) p15 (traced).json](../MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1979 - M450B - Program - Summing Amplifier (2) p15 (traced).dxf`).
 
 ## Full text
 

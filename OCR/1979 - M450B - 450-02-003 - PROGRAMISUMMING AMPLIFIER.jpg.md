@@ -24,7 +24,7 @@ Wiki page: [M450B](../../../../PAGES/M450B.md)
 - **Title block:** (357, 16)–(432, 32) mm: WBS · WARD-BECk SYSTEMS · M450B
 - **Wiring (first pass):** 97 connected wire groups from 778 runs, 2 dotted junctions; labelled ends: 261 mm → 335, I5k, C24, zo/10; 187 mm → 1440o3, c2s, 22/25, 0.68/35; 150 mm → 743245, 3.3p, 2k7, S6p; 141 mm → C23, 220/10, c22, 10/2s; 140 mm → R32, Ci3, 220
 
-Every curve, box, word and wire group: [1979 - M450B - 450-02-003 - PROGRAMISUMMING AMPLIFIER (traced).json](../SCHEMATICS/1979%20-%20M450B%20-%20450-02-003%20-%20PROGRAMISUMMING%20AMPLIFIER%20(traced).json) (the CAD file: `1979 - M450B - 450-02-003 - PROGRAMISUMMING AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M450B - 450-02-003 - PROGRAMISUMMING AMPLIFIER (traced).json](../SCHEMATICS/1979%20-%20M450B%20-%20450-02-003%20-%20PROGRAMISUMMING%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1979 - M450B - 450-02-003 - PROGRAMISUMMING AMPLIFIER (traced).dxf`).
 
 ## Full text
 
