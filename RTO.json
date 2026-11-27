@@ -3,123 +3,399 @@
  "connector": "RTO-144",
  "type": "M450B - Program / Summing Amplifier",
  "series": null,
- "contacts": "ELCO 00-6007-015-940-002 · 15 contacts, single row",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 15,
+   "rows": "1-15 single row",
+   "view": "rear",
+   "part": null
+  }
+ ],
  "verified": "450-04-001 iss. 2, M450, M450A, M450B connector rear view (M450B manual p. 15)",
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+   "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+   "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M450B/M450B.rto144.json",
+  "sheet_agrees": "15 of 15"
+ },
  "pins": [
   {
-   "pin": "9",
-   "signal": "NORMALLY OPERATING AT UNITY GAIN WHEREAS IN",
-   "kind": "in",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/AMPLIFIERS/M450B/MANUALS/1979 - M450B - Program - Summing Amplifier.pdf",
-   "page": 6
-  },
-  {
-   "pin": "10",
-   "signal": "NORMALLY OPERATING AT UNITY GAIN WHEREAS IN",
-   "kind": "in",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/AMPLIFIERS/M450B/MANUALS/1979 - M450B - Program - Summing Amplifier.pdf",
-   "page": 6
-  },
-  {
-   "pin": "11",
-   "signal": "NORMALLY OPERATING AT UNITY GAIN WHEREAS IN",
-   "kind": "in",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/AMPLIFIERS/M450B/MANUALS/1979 - M450B - Program - Summing Amplifier.pdf",
-   "page": 6
-  },
-  {
-   "pin": "18",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M450B/M450B.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "19",
-   "signal": "-25 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M450B/M450B.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "20",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M450B/M450B.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "21",
+   "connector": "P1",
+   "pin": "1",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
    "signal": "+25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M450B/M450B.rto144.json",
-   "page": 1
+   "read_from": [
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
-   "pin": "Y",
-   "signal": "+24 V",
+   "connector": "P1",
+   "pin": "2",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "N/C",
+    "kind": "nc",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "SUMMING INPUT",
+   "kind": "in",
+   "port": "SUMMING INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "SUMMING INPUT +",
+    "kind": "in",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "ref": "4",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT (SUMMING + PROGRAM)",
+   "kind": "in",
+   "port": "PROGRAM INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "PROGRAM INPUT +",
+    "kind": "in",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "ref": "5",
+   "also": null,
+   "same_row": null,
+   "signal": "SUMMING INPUT",
+   "kind": "in",
+   "port": "SUMMING INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "SUMMING INPUT -",
+    "kind": "in",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": null,
+   "same_row": null,
+   "signal": "PROGRAM INPUT",
+   "kind": "in",
+   "port": "PROGRAM INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "PROGRAM INPUT -",
+    "kind": "in",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT SHIELD",
+   "kind": "shield",
+   "port": "PROGRAM INPUT",
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "INPUT SHIELD",
+    "kind": "ground",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "ref": "8",
+   "also": null,
+   "same_row": null,
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": null,
+   "same_row": null,
+   "signal": "GAIN SET",
+   "kind": "strap",
+   "port": "GAIN SET",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GAIN SET",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "GAIN SET",
+   "kind": "strap",
+   "port": "GAIN SET",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GAIN SET",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "GAIN SET",
+   "kind": "strap",
+   "port": "GAIN SET",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GAIN SET",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "OUTPUT +",
+    "kind": "out",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "OUTPUT -",
+    "kind": "out",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "ref": "14",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "N/C",
+    "kind": "nc",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
+   "signal": "-25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M450B/M450B.rto144.json",
-   "page": 1
+   "read_from": [
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VEE-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   }
  ],
- "straps": [],
- "power": [
+ "ports": [
   {
-   "rail": "VCC-AUDIO",
-   "style": null,
-   "volts": 25,
-   "max_a": null,
-   "supply": "1",
-   "ground": "8",
-   "link": null
+   "name": "SUMMING INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-3",
+    "b": "P1-4",
+    "c": "P1-5",
+    "shield": "P1-7"
+   }
   },
   {
-   "rail": "VEE-AUDIO",
-   "style": null,
-   "volts": -25,
-   "max_a": null,
-   "supply": "15",
-   "ground": "8",
-   "link": null
+   "name": "PROGRAM INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-4",
+    "b": "P1-6",
+    "shield": "P1-7"
+   }
+  },
+  {
+   "name": "OUTPUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-12",
+    "b": "P1-13"
+   }
   }
  ],
- "sources": [
-  "Engineering/RTO-144/M450B/M450B.rto144.json",
-  "Modules/AMPLIFIERS/M450B/MANUALS/1979 - M450B - Program - Summing Amplifier.pdf"
- ]
+ "inserts": [],
+ "straps": [
+  {
+   "name": "GAIN SET",
+   "pins": [
+    "P1-9",
+    "P1-10",
+    "P1-11"
+   ],
+   "note": "Bracketed 'GAIN SET'; which pins to link for which gain is not shown."
+  }
+ ],
+ "conflicts": [],
+ "to_check": []
 }
