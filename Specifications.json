@@ -1,0 +1,233 @@
+{
+ "module": "M450B",
+ "title": "MLSOB PROGRAM/suMM NG AMPLIFIER",
+ "source": {
+  "file": "MANUALS/1979 - M450B - Program - Summing Amplifier.pdf",
+  "page": 5
+ },
+ "ocr_quality": 0.95,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "24 to 40 dB _ Unity, with external pair of ISk onm resistors.",
+   "quantities": [
+    {
+     "from": 24,
+     "to": 40,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "(20 Hz to 20 kHz) -68 dBm (at 40 dB gain). -82 dBm (at unity gain)",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": -68,
+     "unit": "dBm"
+    },
+    {
+     "value": 40,
+     "unit": "dB"
+    },
+    {
+     "value": -82,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "Sk ohms. 30k ohms (with external pair of 1S5k ohm resistors)"
+  },
+  {
+   "name": "Output isolation",
+   "key": "output_isolation",
+   "text": "(not applicable) 90 dB or better from 30 Hz [0 20 kHz. Maximum Input Level -10 to +6 dBm. +30 dBm. Used a5 PROGRAM Or sumMING AMPLIFIER",
+   "quantities": [
+    {
+     "value": 90,
+     "unit": "dB"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "from": -10,
+     "to": 6,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/ -0.25 dB from 20 Hz La 20 kHz.",
+   "quantities": [
+    {
+     "value": -0.25,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.27 THD from 20 Hz [0 20 kHz.",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms maximum, balanced Maximum Output Level +30 dBm into 600 ohm Load, balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 35 ohms, balanced.",
+   "quantities": [
+    {
+     "value": 35,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms minimum",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Low number terminals of input and outpul are in phase"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+/ -25 volts dc, L0 mA quiescent currenia 100 mA at +30 dBm output into 600 ohms.",
+   "quantities": [
+    {
+     "value": -25,
+     "unit": "volts dc"
+    },
+    {
+     "value": 0,
+     "unit": "mA"
+    },
+    {
+     "value": 100,
+     "unit": "mA"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "to 60 degrees Celsius.",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "1.1\" wide X 3.5\" high X 7.0\" deep (28 mm X 89 mm X 178 mm)",
+   "quantities": [
+    {
+     "value": 1.1,
+     "unit": "\""
+    },
+    {
+     "value": 3.5,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 28,
+     "unit": "mm"
+    },
+    {
+     "value": 89,
+     "unit": "mm"
+    },
+    {
+     "value": 178,
+     "unit": "mm"
+    }
+   ]
+  }
+ ]
+}
