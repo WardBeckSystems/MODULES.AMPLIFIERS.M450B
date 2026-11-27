@@ -1,17 +1,17 @@
-# M450B · Amplifiers
+# M450B Program Summing Amplifier · Amplifiers
 
 Ward-Beck Systems M450B, 1979|12. Wiki page: [M450B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M450B.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 9 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 110 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 19 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 109 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 24 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 21 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -160,10 +160,10 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKd29zb0NZWlJPN2M/view?resourcekey=0-SxnXCKUPM0mCVwzFNu0CCA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKd29zb0NZWlJPN2M&resourcekey=0-SxnXCKUPM0mCVwzFNu0CCA" width="240" alt="1979 - M450B - P15 - Pin Outs.jpg"></a><br><sub>1979|12 · P15 - Pin Outs</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKd29zb0NZWlJPN2M/view?resourcekey=0-SxnXCKUPM0mCVwzFNu0CCA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKd29zb0NZWlJPN2M&resourcekey=0-SxnXCKUPM0mCVwzFNu0CCA" width="240" alt="1979 - M450B - P15 - Pin Outs.jpg"></a><br><sub>1979|12 · P15 - Pin Outs · <a href="PINOUTS/1979%20-%20M450B%20-%20P15%20-%20Pin%20Outs%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M450B - P15 - Pin Outs(1).jpg`, `M450B - P15 - Pin Outs.jpg`, `M450B - RTO-144 Connections.pdf`
+Not on Google Drive yet: `M450B - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -203,8 +203,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 </table>
 
 Shared privately on Google Drive (opens after sign-in): [1979|12 · Program - Summing Amplifier (2)](https://drive.google.com/file/d/0B0yR0b5T78SKcXhfbkdHZ005Um8/view?resourcekey=0-nC8LZYrqEhrfTSAe3iAMrw)
-
-Not on Google Drive yet: `M450B - P03 - TOC.jpg`
 
 ## KiCad
 
