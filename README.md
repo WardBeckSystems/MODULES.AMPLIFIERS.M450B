@@ -1,6 +1,6 @@
 # M450B Program Summing Amplifier · Amplifiers
 
-Ward-Beck Systems M450B, 1979|12. Wiki page: [M450B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M450B.html)
+Ward-Beck Systems M450B, 1979|12. Wiki page: [M450B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M450B-Program-Summing-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

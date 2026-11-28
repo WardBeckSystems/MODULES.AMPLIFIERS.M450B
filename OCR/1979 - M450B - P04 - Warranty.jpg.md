@@ -1,5 +1,5 @@
 # 1979 - M450B - P04 - Warranty.jpg
-Wiki page: [M450B](../../../../PAGES/M450B.md)
+Wiki page: [M450B](../)
 
 
 - **Year:** 1979 (module estimate (manual_issue))

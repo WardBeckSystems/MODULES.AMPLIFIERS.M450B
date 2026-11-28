@@ -1,5 +1,5 @@
 # 1979 - M450B - Program - Summing Amplifier.pdf
-Wiki page: [M450B](../../../../PAGES/M450B.md)
+Wiki page: [M450B](../)
 
 
 - **Year:** 1979 (found in this file: "MANUAL ISSUE # OCTOBER 1979")
